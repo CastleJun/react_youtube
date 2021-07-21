@@ -1,4 +1,4 @@
-import styles from './search_hedaer.module.css';
+import styles from './search_header.module.css';
 
 import React, { useRef } from 'react';
 
